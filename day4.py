@@ -77,3 +77,7 @@ print(teachers[1:5]) #slicing bhaneko katne ho ani 1 dekhi 4 samma hunxa paxadi 
 print(teachers[1:])  #1 dekhi sab whole linxa
 print(teachers[:5])  #agadi ko purai 0 dekhi 4 samma linxa
 print(teachers[:])   #whole leko -no slicing
+
+
+a=[1,2,34]
+print(a)
